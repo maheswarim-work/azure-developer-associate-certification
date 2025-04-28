@@ -10,3 +10,7 @@
 # Scale Apps in Azure App Service Module Completion:
 * https://learn.microsoft.com/api/achievements/share/en-us/MaheswariManoharan-7542/URXSRB63?sharingId=89EC6E2DED59712F
 ![ScaleAppsInAzureAppService.png](images/ScaleAppsInAzureAppService.png)
+
+# Explore Azure App Service Deployment Slots Module Completion:
+* https://learn.microsoft.com/api/achievements/share/en-us/MaheswariManoharan-7542/E5TAGQ6P?sharingId=89EC6E2DED59712F
+![ExploreAzureAppServiceDeploymentSlots.png](images/ExploreAzureAppServiceDeploymentSlots.png)
