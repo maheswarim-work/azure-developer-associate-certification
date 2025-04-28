@@ -28,7 +28,7 @@ az webapp up -g $resourceGroup -n $appName --html
 }
 ```
 ## Open the url in the browser:
-![intital-page.png](images/intital-page.png)
+![intital-page.png](../module-completion/images/intital-page.png)
 
 ## Cloudshell commands:
 ```bash
@@ -55,4 +55,4 @@ az webapp up -g $resourceGroup -n $appName --html
 }
 ```
 ## Open the url in the browser:
-![updated-page.png](images/updated-page.png)
+![updated-page.png](../module-completion/images/updated-page.png)
